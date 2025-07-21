@@ -31,6 +31,11 @@ Apply the data analysis process to answer the question:
 - **User engagement**: ~28.5 active days per user
 
 ---
+### Graph
+![graph](bellabeat_graphs/Correlacao_entre_Sono_e_Passos.png)
+
+
+---
 
 ### 📁 Project Files
 
