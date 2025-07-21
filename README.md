@@ -13,6 +13,32 @@ Bellabeat is a high-tech manufacturer of health-focused products for women. In t
 Apply the data analysis process to answer the question:  
 **"How can Bellabeat use smart device data to unlock new growth opportunities?"**
 
+---
+
+### 🧪 Analysis Process
+
+| Phase     | Description |
+|-----------|-------------|
+| **Ask**       | Define the business task and objectives |
+| **Prepare**   | Collect and inspect the Fitbit dataset |
+| **Process**   | Clean and structure the data in R |
+| **Analyze**   | Generate insights using statistical summaries and visualizations |
+| **Share**     | Create a report and presentation with recommendations |
+| **Act**       | Suggest data-driven strategies Bellabeat can apply |
+
+---
+
+### 📌 Key Insights
+
+- **Average sleep**: 6.99 hours (below recommended)
+- **High sleep efficiency**: 91.6%
+- **Moderate correlation**: Steps ↔ Calories burned (0.59)
+- **Negative correlation**: Sleep time ↔ Total steps (-0.19)
+- **User engagement**: ~28.5 active days per user
+
+![graph](bellabeat_graphs/Correlacao_entre_Sono_e_Passos.png)
+
+
 ### 🛠 Tools Used
 
 - **R** – data cleaning, transformation, and analysis
