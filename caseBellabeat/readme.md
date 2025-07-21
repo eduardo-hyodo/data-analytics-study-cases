@@ -32,7 +32,7 @@ Apply the data analysis process to answer the question:
 
 ---
 ### Graph
-![graph](bellabeat_graphs/Correlacao_entre_Sono_e_Passos.png)
+![graph](../bellabeat_graphs/Correlacao_entre_Sono_e_Passos.png)
 
 
 ---
